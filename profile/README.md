@@ -1,62 +1,56 @@
-<p align="center">
-  <img src="./logo-principal.png" alt="Logo oficial da Gekko's Dev: mascote gecko e lettering da marca" width="400" />
-</p>
+<!-- GEKKO'S DEV — PERFIL OFICIAL --><div align="center">
+  <a href="https://github.com/gekkosdev" title="Gekko's Dev">
+    <img src="./logo-principal.png" width="340" alt="Logo oficial da Gekko's Dev" />
+  </a>  <h2>Boas ideias merecem sair do papel.</h2>  <p>
+    Um estúdio independente de desenvolvimento de software.<br />
+    Criado por Layla &amp; Leo.
+  </p>  <p>
+    <a href="https://github.com/orgs/gekkosdev/repositories"><strong>Explorar projetos</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=gekkosdev%40gmail.com"><strong>Conversar com a gente</strong></a>
+  </p>
+</div>
 
-<p align="center">
-  <strong>Desenvolvimento de software, do planejamento aos detalhes finais.</strong>
-</p>
-
-<p align="center">
-  Web &nbsp;·&nbsp; Sistemas &nbsp;·&nbsp; Produtos digitais
-</p>
-
-<p align="center">
-  <a href="mailto:gekkosdev@gmail.com">Entre em contato</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/orgs/gekkosdev/repositories">Conheça os repositórios</a>
-</p>
+<br />
 
 ---
 
-## Quem somos
+### Muito prazer, somos a Gekko's Dev.
 
-A **Gekko's Dev** nasceu da parceria de **Layla e Leo**. Somos um projeto independente de desenvolvimento de software, com interesse em criar ferramentas úteis, interfaces bem resolvidas e produtos que possam evoluir com o tempo.
+A gente acredita que desenvolver vai além de escrever código. É olhar para um problema, entender quem precisa da solução e construir algo que realmente faça sentido.
 
-Para nós, um bom projeto não termina quando o código funciona. Ele precisa fazer sentido para quem usa e continuar compreensível para quem vai mantê-lo.
+Somos **Layla e Leo**. Criamos a Gekko's Dev como um espaço para transformar nossas ideias em projetos reais — com liberdade para experimentar, compromisso em aprender e cuidado com cada entrega.
 
-## O que fazemos
+<br />
 
-**Desenvolvimento web**  
-Sites e aplicações web com foco em estrutura, desempenho e facilidade de uso.
+### Onde nossas ideias ganham forma
 
-**Sistemas para negócios**  
-Ferramentas digitais para organizar processos, informações e rotinas.
+**01 — Experiências web**  
+Sites e aplicações que unem clareza, desempenho e uma boa experiência para quem usa.
 
-**Produtos próprios**  
-Projetos autorais em que exploramos ideias, validamos soluções e aprimoramos nossa prática de desenvolvimento.
+**02 — Sistemas para o dia a dia**  
+Ferramentas para simplificar tarefas, organizar rotinas e resolver problemas de verdade.
 
-## Como trabalhamos
+**03 — Projetos autorais**  
+Produtos que nascem das nossas próprias ideias e crescem com pesquisa, testes e evolução constante.
 
-**01 / Entender** — Identificar o problema e organizar os requisitos antes de começar.
+<br />
 
-**02 / Planejar** — Definir o escopo, os fluxos e as decisões técnicas com clareza.
+### Um pouco do que acontece por aqui
 
-**03 / Construir** — Desenvolver por etapas, com organização e acompanhamento das mudanças.
+Este GitHub é parte do nosso processo. É onde organizamos código, registramos decisões e compartilhamos os projetos que estão prontos para se tornar públicos.
 
-**04 / Validar** — Testar, revisar e melhorar o que for necessário.
+Não queremos mostrar apenas o resultado final. A evolução também faz parte da história.
 
-## Projetos e código aberto
+**[Veja os repositórios da Gekko's Dev →](https://github.com/orgs/gekkosdev/repositories)**
 
-Este é o espaço em que compartilhamos os projetos da Gekko's Dev destinados à publicação. Cada repositório terá sua própria documentação, histórico e instruções de uso, quando aplicável.
-
-[**Explorar os repositórios da organização →**](https://github.com/orgs/gekkosdev/repositories)
+<br />
 
 ---
 
-### Vamos conversar?
-
-Para falar sobre um projeto, parceria ou ideia, escreva para **[gekkosdev@gmail.com](mailto:gekkosdev@gmail.com)**.
-
-<p align="center">
-  <sub>Gekko's Dev · Criada por Layla e Leo</sub>
-</p>
+<div align="center">
+  <h3>Tem um projeto em mente?</h3>
+  <p>Adoramos uma ideia que ainda não sabe por onde começar.</p>
+  <p><a href="mailto:gekkosdev@gmail.com"><strong>gekkosdev@gmail.com</strong></a></p>
+  <sub>GEKKO'S DEV &nbsp;·&nbsp; CRIADA POR LAYLA &amp; LEO</sub>
+</div>
